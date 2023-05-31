@@ -1,0 +1,6 @@
+runtime.python27
+api_version:1
+thredasafe:false
+handlers:
+-url: /.*
+script:test.app
